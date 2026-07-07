@@ -1,10 +1,11 @@
-Hugging Face Project:
+# TextSummarizer USing Huggingface
 
-Text-Summary 
+### Workflows 
 
-1. create proj in github and clone it
-2. python3 -m venv venv , source venv/bin/activate
-3. requirements.txt
-4. README.md file
-5. template.py
-6. 
+1. Config.yaml
+2. Params.yaml
+3. Config entity
+4. Configuration Manager
+5. Update the components- Data Ingestion,Data Transformation, Model Trainer
+6. Create our Pipeline-- Training Pipeline,PRediction Pipeline
+7. Front end-- Api's, Training APi's, Batch Prtediction API's
